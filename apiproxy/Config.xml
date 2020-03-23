@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<APIProxy revision="1" name="Config">
+    <Basepaths>/config</Basepaths>
+    <ConfigurationVersion majorVersion="4" minorVersion="0"/>
+    <CreatedAt>1528277499725</CreatedAt>
+    <CreatedBy>prashant280@gmail.com</CreatedBy>
+    <Description>Config sample app</Description>
+    <DisplayName>Config</DisplayName>
+    <LastModifiedAt>1555167861956</LastModifiedAt>
+    <LastModifiedBy>prashant280@gmail.com</LastModifiedBy>
+    <ManifestVersion>SHA-512:f2b297ecb77f9f7c5d70cbdc935a191b0443c9edb6612895b1e9246e9ea069273ac564ad338e012c30606ab78ef23ed878c2b412e4b702fb00cd98e47743e1e0</ManifestVersion>
+    <Policies>
+        <Policy>Assign-Message-1</Policy>
+        <Policy>Extract-Variables-1</Policy>
+        <Policy>Spike-Arrest-1</Policy>
+        <Policy>Verify-API-Key-1</Policy>
+        <Policy>add-cors</Policy>
+    </Policies>
+    <ProxyEndpoints>
+        <ProxyEndpoint>default</ProxyEndpoint>
+    </ProxyEndpoints>
+    <Resources>
+        <Resource>node://hello-world.js</Resource>
+    </Resources>
+    <Spec></Spec>
+    <TargetServers/>
+    <TargetEndpoints>
+        <TargetEndpoint>default</TargetEndpoint>
+    </TargetEndpoints>
+</APIProxy>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Manifest name="manifest">
+    <Policies>
+        <VersionInfo resourceName="Assign-Message-1" version="SHA-512:a81a5879cd87ed049da7d8aff0b3c086c7ab3659cc142b5b64f1b9cc7ea86163778a0018d07c3ae3aa229c6f270ca0fe2581b14ab009c2e1b30385e9da39a50e"/>
+        <VersionInfo resourceName="Extract-Variables-1" version="SHA-512:499fb52cbadb9093ffa5d5984e729714167a6e2284263b325c4909f62801cce18b9b4f4bfea441079aaf2edf29b818dd1137221c8b4148aabd847ea6c392d489"/>
+        <VersionInfo resourceName="Spike-Arrest-1" version="SHA-512:5ae53eb6e350ca7d1b18325317b06901646487c946e4f35d8bc12040c060c295e72f46b66e2b41b776aebf848336fae7f41a11fdd52c32f90361506e1ce5ec35"/>
+        <VersionInfo resourceName="Verify-API-Key-1" version="SHA-512:e719b4a5585e31e03d4507fd284efd68e1442d48dd9cd8f18688930a1495e444f9bcc8862fcfe78368fdbaf262e4c93457e164bd675a66931c3fc76dd2ddde69"/>
+        <VersionInfo resourceName="add-cors" version="SHA-512:08cc2ef69b08ee73467f7be74960047faa490fcc61ebba744cc1436358ed8068b052ee8c6e101ad00a5d54633c92d8195f7ed624372a59614265f0e515a1b5a1"/>
+    </Policies>
+    <ProxyEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:1f972adb511beee41db9a1ab7ed798ac4b70fa23858db877b964ce9c2fc87fcd7e983d70d96217d59d81a322eb821ce8033808a91031f888801c4a49e62d49dd"/>
+    </ProxyEndpoints>
+    <Resources>
+        <VersionInfo resourceName="node://hello-world.js" version="SHA-512:e3a514d6b45c4aed54a015ef898ca5b2620a9a1cc1d01e6fabe56fb5a94d8b9a92066057f4111fe7a8dfa4d0c4be4c3cf1f24e296917524bf7431f057d8d136b"/>
+    </Resources>
+    <SharedFlows/>
+    <TargetEndpoints>
+        <VersionInfo resourceName="default" version="SHA-512:a45700644ae5419e577beb2c7b15322d855985e3b241bf7371750041ac5bcc35d4e5edbe2c5f02f648c054d72a851c3b0c1c53ed05dfb87c6294743c5c5fdf80"/>
+    </TargetEndpoints>
+</Manifest>
