@@ -140,7 +140,7 @@
                 <apigee.profile>test</apigee.profile>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>prashant280-trial</apigee.org>
+                <apigee.org>harshu2-harshita-eval</apigee.org>
                 <apigee.env>test</apigee.env>
                 <apigee.username>${username}</apigee.username>
                 <apigee.password>${password}</apigee.password>
@@ -152,7 +152,7 @@
                 <apigee.profile>prod</apigee.profile>
                 <apigee.hosturl>https://api.enterprise.apigee.com</apigee.hosturl>
                 <apigee.apiversion>v1</apigee.apiversion>
-                <apigee.org>prashant280-trial</apigee.org>
+                <apigee.org>harshu2-harshita-eval</apigee.org>
                 <apigee.env>prod</apigee.env>
                 <apigee.username>${username}</apigee.username>
                 <apigee.password>${password}</apigee.password>
