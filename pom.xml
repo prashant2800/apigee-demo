@@ -156,6 +156,7 @@
                 <apigee.env>prod</apigee.env>
                 <apigee.username>${username}</apigee.username>
                 <apigee.password>${password}</apigee.password>
+			</properties>
         </profile>
     </profiles>
     <dependencies>
